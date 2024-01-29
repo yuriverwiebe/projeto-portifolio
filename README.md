@@ -17,7 +17,7 @@ Projeto criado com o objetico de organizar todas as competencias e prejetos cria
 <br>
 
 <p align="center">
-  <img alt="Projeto Portifolio" src="imagens/preview.png" width="100%">
+  <img alt="Projeto Portifolio" src="img/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
